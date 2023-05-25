@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://albinomoreira:csBaKpjfe8MyfY6m@webfluxcoursecluster.ihp3usy.mongodb.net/webflux-course?retryWrites=true&w=majority
